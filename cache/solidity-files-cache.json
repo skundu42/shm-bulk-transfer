@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/sk/Coding/batch-transfer-app/contracts/BatchTransfer.sol": {
+      "lastModificationDate": 1683652219828,
+      "contentHash": "b98ad515991642ac467206c2d8cc2ce5",
+      "sourceName": "contracts/BatchTransfer.sol",
+      "solcConfig": {
+        "version": "0.8.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BatchTransfer"
+      ]
+    }
+  }
+}
